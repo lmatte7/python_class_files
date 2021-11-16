@@ -79,13 +79,13 @@ first_name = "Lucas"
 # print(average)
 
 
-# scores = {"Lucas": 84, "Hannah": 99, "Charlotte": 100}
+# scores = {"Lucas": 84, "Roscoe": 62, "Pepper": 100}
 
 
 # print(scores)
 # print(scores["Lucas"])
 
-# scores = {"Lucas": 84, "Hannah": 99, "Charlotte": 100, "Lucas": 12}
+# scores = {"Lucas": 84, "Roscoe": 62, "Pepper": 100, "Lucas": 12}
 
 # print(scores)
 
