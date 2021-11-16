@@ -46,6 +46,29 @@ for fruit in array:
     print("The current fruit is: " + str(fruit))
 
 
+scores = [100, 98, 64, 75]
+
+totalScore = 0
+for score in scores:
+    totalScore += score
+
+average = totalScore / len(scores)
+print("The average score is: " + str(average))
+
+
+scores = {"Lucas": 84, "Hannah": 99, "Charlotte": 100}
+
+totalScore = 0
+for score in scores:
+    print(score)
+
+for score in scores:
+    totalScore += scores[score]
+
+average = totalScore / len(scores)
+print("The average score is: " + str(average))
+
+
 #######################
 # Break and Continue
 #######################
