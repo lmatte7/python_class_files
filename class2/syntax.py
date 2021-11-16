@@ -7,6 +7,7 @@
 #############
 
 # The python intepreter knows when to move on by finding a newline character (\n)
+# vscode adds highlights to make code easier to read
 print("Hello 1")
 print("Hello 2")
 

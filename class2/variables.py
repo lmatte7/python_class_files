@@ -27,7 +27,7 @@ first_name = "Lucas"
 # Variable types
 ####################
 # integerVariable = 1
-# stringVariable = "asdf"
+# stringVariable = "asdf+++===---#####"
 # floatVariable = 1.11334
 # booleanVariable = True
 # arrayVariable = [0, 2, 3, 4]
